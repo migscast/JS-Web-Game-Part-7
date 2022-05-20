@@ -26,3 +26,5 @@ function newPlayableCharacter(x, y) {
         element: element
     }
 }
+
+ 
